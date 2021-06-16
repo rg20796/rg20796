@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rg20796
+- 👋 Hi, I’m Rishabh G
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning  Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Data Science
